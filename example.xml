@@ -2,82 +2,38 @@
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>8581033477332</ITEM_ID>
-    <PRODUCT>Kombinované kladivo example BX-800 SDS-plus | 800 W</PRODUCT>
-    <PRODUCTNAME>Kombinované kladivo example BX-800 SDS-plus | 800 W</PRODUCTNAME>
-    <EAN>8586020296712</EAN>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>123KURIER</DELIVERY_ID>
-      <DELIVERY_PRICE>5</DELIVERY_PRICE>
-      <DELIVERY_PRICE_COD>6</DELIVERY_PRICE_COD>
-    </DELIVERY>
-    <DESCRIPTION>Vyvinuté pre každodennú prácu. Spoľahlivá, robustná konštrukcia doplnená nevyhnutnou elektronikou</DESCRIPTION>
-    <URL>https://www.example.sk/example-bx-800</URL>
-    <IMGURL>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000.webp</IMGURL>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_1.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_3.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_5.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_6.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_7.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_8.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_9.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_10.webp</IMGURL_ALTERNATIVE>
-    <IMGURL_ALTERNATIVE>https://www.example.sk/images/full/kombinovane-kladivo-example-bx-800-sds-plus-800-w-110080000_11.webp</IMGURL_ALTERNATIVE>
-    <ACCESORY>110000001</ACCESORY>
-    <MANUFACTURER>example</MANUFACTURER>
     <PRICE_VAT>202.8</PRICE_VAT>
-    <CATEGORYTEXT>Elektrické náradie | Elektropneumatické kladivá</CATEGORYTEXT>
-    <PARAM>
-      <PARAM_NAME>Napätie [V~]</PARAM_NAME>
-      <VAL>220-240</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Menovitý príkon [W]</PARAM_NAME>
-      <VAL>800</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Upínanie nástroja</PARAM_NAME>
-      <VAL>SDS plus</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Voľnobežné otáčky [/min]</PARAM_NAME>
-      <VAL>0-1250</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Počet príklepov [/min]</PARAM_NAME>
-      <VAL>0-4000</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Energia príklepu [J]</PARAM_NAME>
-      <VAL>0-3,2</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Optimálny rozsah priemeru vŕtania do betónu [mm]</PARAM_NAME>
-      <VAL>6 až 16</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Rozsah priemeru vŕtania do betónu [mm]</PARAM_NAME>
-      <VAL>4 až 28</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Max. priemer vŕtania do muriva vŕtacími korunkami [mm]</PARAM_NAME>
-      <VAL>80</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Hladina akustického výkonu (LWA) [dB(A)]</PARAM_NAME>
-      <VAL>100</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Hladina akustického tlaku (LpA) [dB(A)]</PARAM_NAME>
-      <VAL>89</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Odchýlka (K) [dB(A)]</PARAM_NAME>
-      <VAL>3</VAL>
-    </PARAM>
-    <PARAM>
-      <PARAM_NAME>Hmotnosť (podľa EPTA 01/2003) [kg]</PARAM_NAME>
-      <VAL>2,9</VAL>
-    </PARAM>
+    <STOCK>202</STOCK>
+    <HANDLING_TIME>1</HANDLING_TIME>
   </SHOPITEM>
-  </SHOP>
+  <SHOPITEM>
+    <ITEM_ID>8581033479541</ITEM_ID>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <STOCK>202</STOCK>
+    <HANDLING_TIME>2</HANDLING_TIME>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>8581033476717</ITEM_ID>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <STOCK>202</STOCK>
+    <HANDLING_TIME>3</HANDLING_TIME>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>8581033475512</ITEM_ID>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <STOCK>202</STOCK>
+    <HANDLING_TIME>5</HANDLING_TIME>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>8581033461416</ITEM_ID>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <STOCK>202</STOCK>
+    <HANDLING_TIME>100</HANDLING_TIME>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>8581033475741</ITEM_ID>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <STOCK>202</STOCK>
+    <HANDLING_TIME>0</HANDLING_TIME>
+  </SHOPITEM>
+</SHOP>
