@@ -6,7 +6,7 @@
     <PRODUCT>Kratší popis testovacího produktu SKNR001.</PRODUCT>
     <URL>https://www.example.com/produkt/SKNR001</URL>
     <IMGURL>https://www.example.com/obrazky/SKNR001.jpg</IMGURL>
-    <PRICE_VAT>123.45</PRICE_VAT>
+    <PRICE_VAT>543.21</PRICE_VAT>
     <CATEGORYTEXT>Elektronika | Testovací kategorie</CATEGORYTEXT>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <EAN>1111111111111</EAN>
