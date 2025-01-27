@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>SKNR001</ITEM_ID>
+    <PRODUCTNAME>Testovací produkt SKNR001</PRODUCTNAME>
+    <PRODUCT>Kratší popis testovacího produktu SKNR001.</PRODUCT>
+    <URL>https://www.example.com/produkt/SKNR001</URL>
+    <IMGURL>https://www.example.com/obrazky/SKNR001.jpg</IMGURL>
+    <PRICE_VAT>123.45</PRICE_VAT>
+    <CATEGORYTEXT>Elektronika | Testovací kategorie</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <EAN>1111111111111</EAN>
+    <MANUFACTURER>TestManufacturer</MANUFACTURER>
+    <STOCK>123</STOCK>
+    <!-- Další nepovinné / volitelné elementy -->
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ABCDEFGHCHIJK</ITEM_ID>
+    <PRODUCTNAME>Testovací produkt ABCDEFGHCHIJK</PRODUCTNAME>
+    <PRODUCT>Kratší popis testovacího produktu ABCDEFGHCHIJK.</PRODUCT>
+    <URL>https://www.example.com/produkt/ABCDEFGHCHIJK</URL>
+    <IMGURL>https://www.example.com/obrazky/ABCDEFGHCHIJK.jpg</IMGURL>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <CATEGORYTEXT>Dům a zahrada | Testovací kategorie</CATEGORYTEXT>
+    <DELIVERY_DATE>20</DELIVERY_DATE>
+    <EAN>2222222222222</EAN>
+    <MANUFACTURER>TestManufacturer</MANUFACTURER>
+    <STOCK>99</STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>5904622996640</ITEM_ID>
+    <PRODUCTNAME>Testovací produkt 5904622996640</PRODUCTNAME>
+    <PRODUCT>Kratší popis testovacího produktu 5904622996640.</PRODUCT>
+    <URL>https://www.example.com/produkt/5904622996640</URL>
+    <IMGURL>https://www.example.com/obrazky/5904622996640.jpg</IMGURL>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <CATEGORYTEXT>Sport | Testovací kategorie</CATEGORYTEXT>
+    <DELIVERY_DATE>1</DELIVERY_DATE>
+    <EAN>3333333333333</EAN>
+    <MANUFACTURER>TestManufacturer</MANUFACTURER>
+    <STOCK>123</STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>05-BA20-MO</ITEM_ID>
+    <PRODUCTNAME>Testovací produkt 05-BA20-MO</PRODUCTNAME>
+    <PRODUCT>Kratší popis testovacího produktu 05-BA20-MO.</PRODUCT>
+    <URL>https://www.example.com/produkt/05-BA20-MO</URL>
+    <IMGURL>https://www.example.com/obrazky/05-BA20-MO.jpg</IMGURL>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <CATEGORYTEXT>Auto-moto | Testovací kategorie</CATEGORYTEXT>
+    <DELIVERY_DATE>20</DELIVERY_DATE>
+    <EAN>4444444444444</EAN>
+    <MANUFACTURER>TestManufacturer</MANUFACTURER>
+    <STOCK>99</STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>234</ITEM_ID>
+    <PRODUCTNAME>Testovací produkt 234</PRODUCTNAME>
+    <PRODUCT>Kratší popis testovacího produktu 234.</PRODUCT>
+    <URL>https://www.example.com/produkt/234</URL>
+    <IMGURL>https://www.example.com/obrazky/234.jpg</IMGURL>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <CATEGORYTEXT>Hračky | Testovací kategorie</CATEGORYTEXT>
+    <DELIVERY_DATE>1</DELIVERY_DATE>
+    <EAN>5555555555555</EAN>
+    <MANUFACTURER>TestManufacturer</MANUFACTURER>
+    <STOCK>123</STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>229333</ITEM_ID>
+    <PRODUCTNAME>Testovací produkt 229333</PRODUCTNAME>
+    <PRODUCT>Kratší popis testovacího produktu 229333.</PRODUCT>
+    <URL>https://www.example.com/produkt/229333</URL>
+    <IMGURL>https://www.example.com/obrazky/229333.jpg</IMGURL>
+    <PRICE_VAT>202.8</PRICE_VAT>
+    <CATEGORYTEXT>Móda | Testovací kategorie</CATEGORYTEXT>
+    <DELIVERY_DATE>20</DELIVERY_DATE>
+    <EAN>6666666666666</EAN>
+    <MANUFACTURER>TestManufacturer</MANUFACTURER>
+    <STOCK>99</STOCK>
+  </SHOPITEM>
+</SHOP>
