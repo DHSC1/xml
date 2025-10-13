@@ -3,6 +3,15 @@
   <SHOPITEM>
     <ITEM_ID>SKNR001</ITEM_ID>
     <PRICE_VAT>123.45</PRICE_VAT>
+     <PURCHASE_PRICE>
+            <VALUE>800</VALUE>
+            <VAT>12</VAT>
+            <CURRENCY>CZK</CURRENCY>
+        </PURCHASE_PRICE>
+        <B2B_PRICE>
+            <VALUE>1000</VALUE>
+            <VAT>12</VAT>
+            <CURRENCY>CZK</CURRENCY>
     <STOCK>123</STOCK>
     <HANDLING_TIME>0</HANDLING_TIME>
   </SHOPITEM>
@@ -37,3 +46,4 @@
     <HANDLING_TIME>20</HANDLING_TIME>
   </SHOPITEM>
 </SHOP>
+
