@@ -7,6 +7,16 @@
                 <PRICE>683.00</PRICE>
                 <RRP>150.00</RRP>
                 <VAT>21</VAT>
+        <PURCHASE_PRICE>
+            <VALUE>400</VALUE>
+            <VAT>21</VAT>
+            <CURRENCY>CZK</CURRENCY>
+        </PURCHASE_PRICE>
+        <B2B_PRICE>
+            <VALUE>20.54</VALUE>
+            <VAT>21</VAT>
+            <CURRENCY>EUR</CURRENCY>
+        </B2B_PRICE>
             </MARKETPLACE>
         </MARKETPLACES>
     </PRODUCT>
