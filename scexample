@@ -2,12 +2,7 @@
 <PRODUCTS>
     <PRODUCT>
         <SKU>SKNR001</SKU>
-        <MARKETPLACES>
-            <MARKETPLACE>
-                <PRICE>683.00</PRICE>
-                <RRP>150.00</RRP>
-                <VAT>21</VAT>
-        <PURCHASE_PRICE>
+            <PURCHASE_PRICE>
             <VALUE>400</VALUE>
             <VAT>21</VAT>
             <CURRENCY>CZK</CURRENCY>
@@ -17,6 +12,11 @@
             <VAT>21</VAT>
             <CURRENCY>EUR</CURRENCY>
         </B2B_PRICE>
+        <MARKETPLACES>
+            <MARKETPLACE>
+                <PRICE>683.00</PRICE>
+                <RRP>150.00</RRP>
+                <VAT>21</VAT>
             </MARKETPLACE>
         </MARKETPLACES>
     </PRODUCT>
