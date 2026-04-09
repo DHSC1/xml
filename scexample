@@ -3,14 +3,14 @@
     <PRODUCT>
         <SKU>05-CSK5128-ZE</SKU>
         <B2B_PRICE>
-            <VALUE>20.54</VALUE>
+            <VALUE>25.54</VALUE>
             <VAT>21</VAT>
             <CURRENCY>EUR</CURRENCY>
         </B2B_PRICE>
         <MARKETPLACES>
             <MARKETPLACE>
-                <PRICE>683.00</PRICE>
-                <RRP>150.00</RRP>
+                <PRICE>589.00</PRICE>
+                <RRP>160.00</RRP>
                 <VAT>21</VAT>
             </MARKETPLACE>
         </MARKETPLACES>
@@ -19,8 +19,8 @@
         <SKU>ABCDEFGHCHIJK</SKU>
         <MARKETPLACES>
             <MARKETPLACE>
-                <PRICE>202.8</PRICE>
-                <RRP>250.00</RRP>
+                <PRICE>256.8</PRICE>
+                <RRP>300.00</RRP>
                 <VAT>21</VAT>
             </MARKETPLACE>
         </MARKETPLACES>
@@ -29,8 +29,8 @@
         <SKU>5904622996640</SKU>
         <MARKETPLACES>
             <MARKETPLACE>
-                <PRICE>202.8</PRICE>
-                <RRP>250.00</RRP>
+                <PRICE>256.8</PRICE>
+                <RRP>300.00</RRP>
                 <VAT>21</VAT>
             </MARKETPLACE>
         </MARKETPLACES>
@@ -39,7 +39,7 @@
         <SKU>05-BA20-MO</SKU>
         <MARKETPLACES>
             <MARKETPLACE>
-                <PRICE>202.8</PRICE>
+                <PRICE>300.8</PRICE>
                 <RRP>250.00</RRP>
                 <VAT>21</VAT>
             </MARKETPLACE>
@@ -49,7 +49,7 @@
         <SKU>234</SKU>
         <MARKETPLACES>
             <MARKETPLACE>
-                <PRICE>202.8</PRICE>
+                <PRICE>220.8</PRICE>
                 <RRP>250.00</RRP>
                 <VAT>21</VAT>
             </MARKETPLACE>
@@ -59,7 +59,7 @@
         <SKU>229333</SKU>
         <MARKETPLACES>
             <MARKETPLACE>
-                <PRICE>202.8</PRICE>
+                <PRICE>220.8</PRICE>
                 <RRP>250.00</RRP>
                 <VAT>21</VAT>
             </MARKETPLACE>
