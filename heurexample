@@ -6,7 +6,7 @@
     <PRODUCT>Kratší popis testovacího produktu SKNR001.</PRODUCT>
     <URL>https://www.example.com/produkt/SKNR001</URL>
     <IMGURL>https://www.example.com/obrazky/SKNR001.jpg</IMGURL>
-    <PRICE_VAT>543.21</PRICE_VAT>
+    <PRICE_VAT>62.21</PRICE_VAT>
     <CATEGORYTEXT>Elektronika | Testovací kategorie</CATEGORYTEXT>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <EAN>1111111111111</EAN>
@@ -20,7 +20,7 @@
     <PRODUCT>Kratší popis testovacího produktu ABCDEFGHCHIJK.</PRODUCT>
     <URL>https://www.example.com/produkt/ABCDEFGHCHIJK</URL>
     <IMGURL>https://www.example.com/obrazky/ABCDEFGHCHIJK.jpg</IMGURL>
-    <PRICE_VAT>202.8</PRICE_VAT>
+    <PRICE_VAT>61.8</PRICE_VAT>
     <CATEGORYTEXT>Dům a zahrada | Testovací kategorie</CATEGORYTEXT>
     <DELIVERY_DATE>20</DELIVERY_DATE>
     <EAN>2222222222222</EAN>
@@ -33,7 +33,7 @@
     <PRODUCT>Kratší popis testovacího produktu 5904622996640.</PRODUCT>
     <URL>https://www.example.com/produkt/5904622996640</URL>
     <IMGURL>https://www.example.com/obrazky/5904622996640.jpg</IMGURL>
-    <PRICE_VAT>202.8</PRICE_VAT>
+    <PRICE_VAT>60.8</PRICE_VAT>
     <CATEGORYTEXT>Sport | Testovací kategorie</CATEGORYTEXT>
     <DELIVERY_DATE>1</DELIVERY_DATE>
     <EAN>3333333333333</EAN>
