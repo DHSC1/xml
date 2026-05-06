@@ -3,7 +3,7 @@
     <PRODUCT>
         <SKU>1234567890111</SKU>
         <B2B_PRICE>
-            <VALUE>0.00</VALUE>
+            <VALUE>1.00</VALUE>
             <VAT>21</VAT>
             <CURRENCY>EUR</CURRENCY>
         </B2B_PRICE>
